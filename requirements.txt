@@ -1,0 +1,17 @@
+# Telegram Bot
+
+python-telegram-bot==20.7
+
+# Environment variables
+
+python-dotenv==1.0.1
+
+# Groq AI
+
+groq==0.5.0
+
+# Google Sheets
+
+gspread==6.0.2
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0

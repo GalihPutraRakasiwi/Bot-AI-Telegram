@@ -13,7 +13,7 @@ Pastikan sudah terinstall:
 ## 📁 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/repo.git
+git clone https://github.com/GalihPutraRakasiwi/Bot-AI-Telegram.git
 cd repo
 ```
 
