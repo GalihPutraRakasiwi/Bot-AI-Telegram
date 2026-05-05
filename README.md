@@ -150,16 +150,6 @@ python telegram_bot.py
 
 ---
 
-## 🔐 Security Notes
-
-- Jangan commit:
-  - `.env`
-  - `credentials.json`
-
-- Pastikan sudah ada di `.gitignore`
-
----
-
 ## ✅ Done!
 
 Bot siap digunakan 🚀
